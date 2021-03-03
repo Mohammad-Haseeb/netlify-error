@@ -1,4 +1,5 @@
-# netlify-error
+# netlify-error 
+## you chan check solution at the end
 ## Netlify error Type
 
 npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
@@ -73,7 +74,7 @@ npm ERR! A complete log of this run can be found in:
 npm ERR!     /home/mohammad/.npm/_logs/2021-03-03T19_54_02_240Z-debug.log
 
 
-***soluction of this***
+***soluction of this error***
 
 ## sudo npm install -g --unsafe-perm=true netlify-cli
 
